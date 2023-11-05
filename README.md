@@ -13,14 +13,15 @@ AQI는 일반적으로 대기 중 주요 오염 물질에 의해 결정되며 �
 
 
 <p align="center">
-<img src=".\img\AQL_Sensor.png" height = "320" alt="" align=center />
+<img src=".\img\AQL_Sensor.png" height = "250" alt="" align=center />
 <br><br>
 Sources of air quality stations.
 </p>
 
 <p align="center">
-<img src=".\img\table1.png" height = "320" alt="" align=center />
+<img src=".\img\table1.png" height = "250" alt="" align=center />
 <br><br>
 <b>Table 1<b>summary of our datasets: AQI-36, 313 AQI-27 and AQI-15.
 </p>
+ 
 변수에는 관측 타임스탬프 데이터, 즉 관측 월과 주가 포함됩니다. 베이징 시에는 36개의 모니터링 스테이션이 있어 AQI-36을 구성합니다. 마찬가지로 AQI-15와 AQI-27은 각각 홍콩과 텐진시의 15개 및 27개 모니터링 스테이션에서 수집됩니다. 3개의 대기 질 데이터 세트는 각각 8,760개의 동일한 인스턴스 수를 공유하며 AQI-15, AQI-27 및 AQI-36 데이터 세트의 경우 무작위로 누락된 값 비율이 각각 18.72%, 20.84%, 13.25%입니다.
