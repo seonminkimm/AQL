@@ -14,13 +14,13 @@ AQI는 일반적으로 대기 중 주요 오염 물질에 의해 결정되며 �
 <p align="center">
 <img src=".\img\AQL_Sensor.png" height = "250" alt="" align=center />
 <br><br>
-Sources of air quality stations.
+<b>Figure1. </b>Sources of air quality stations.
 </p>
 
 <p align="center">
-<img src=".\img\table1.png" height = "100" alt="" align=center />
+<img src=".\img\table1.png" height = "150" alt="" align=center />
 <br><br>
-<b>Table 1</b>b>summary of our datasets: AQI-36, 313 AQI-27 and AQI-15.
+<b>Table 1. </b>summary of our datasets: AQI-36, 313 AQI-27 and AQI-15.
 </p>
 
 - 지역마다 데이터를 수집하는 모니터링 스테이션의 수가 다르고, 해당 데이터셋에는 결측치가 많다는 것을 발견**(AQL)**.
