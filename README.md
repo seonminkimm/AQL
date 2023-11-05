@@ -18,7 +18,7 @@ Sources of air quality stations.
 </p>
 
 <p align="center">
-<img src=".\img\table1.png" height = "250" alt="" align=center />
+<img src=".\img\table1.png" height = "100" alt="" align=center />
 <br><br>
 <b>Table 1</b>b>summary of our datasets: AQI-36, 313 AQI-27 and AQI-15.
 </p>
