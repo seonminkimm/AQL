@@ -10,21 +10,21 @@ AQI는 일반적으로 대기 중 주요 오염 물질에 의해 결정되며 �
 해당 데이터 세트는 중국의 302개 도시에 분포된 2,296개의 air quality 모니터링 스테이션에서 수집된 데이터 셋입니다.
 
 2014년 3월부터 2015년 4월까지 대기오염의 한 요소인 PM2.5 pollution을 포함하여 시간별로 수집되었습니다. Figure 3은 이러한 모니터링 stations의 지리적 분포를 보여주며, 각 아이콘은 stations을 나타냅니다.
-<br><br>
+
 
 <p align="center">
 <img src=".\img\AQL_Sensor.png" height = "250" alt="" align=center />
 <b>Figure1. </b>Sources of air quality stations.
 </p>
-<br><br>
 
+
+<br><br>
 - 지역마다 데이터를 수집하는 모니터링 스테이션의 수가 다르고, 해당 데이터셋에는 결측치가 많다는 것을 발견**(AQL)**.
 - 데이터 분석 결과의 편향을 일으켜 데이터 분포를 왜곡하는 것을 막기 위해 결측치 보간하고자 했으며, 이를 위해 양방향 하이퍼그래프 구조의 새로운 AI모델 제안 결정.
 - 모니터링 스테이션의 수가 다양한 데이터셋을 학습시켜 general한 결과를 확인 위해 **중국의 세 도시인 베이징, 텐진, 홍콩에서 수집된 데이터셋 사용.**
 
 <p align="center">
 <img src=".\img\table1.png" height = "150" alt="" align=center />
-<br><br>
 <b>Table 1. </b>summary of our datasets: AQI-36, 313 AQI-27 and AQI-15.
 </p>
 
