@@ -14,10 +14,9 @@ AQI는 일반적으로 대기 중 주요 오염 물질에 의해 결정되며 �
 
 <p align="center">
 <img src=".\img\AQL_Sensor.png" height = "250" alt="" align=center />
-<br><br>
 <b>Figure1. </b>Sources of air quality stations.
 </p>
-
+<br><br>
 
 - 지역마다 데이터를 수집하는 모니터링 스테이션의 수가 다르고, 해당 데이터셋에는 결측치가 많다는 것을 발견**(AQL)**.
 - 데이터 분석 결과의 편향을 일으켜 데이터 분포를 왜곡하는 것을 막기 위해 결측치 보간하고자 했으며, 이를 위해 양방향 하이퍼그래프 구조의 새로운 AI모델 제안 결정.
